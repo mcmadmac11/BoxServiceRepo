@@ -12,7 +12,11 @@ namespace BoxService
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
-
+            routes.MapRoute(
+                name: "SubscriptionInfo",
+                url: "Subscription",
+                defaults: new { controller = "Subscription", action = "Index", id = UrlParameter.Optional }
+            );
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

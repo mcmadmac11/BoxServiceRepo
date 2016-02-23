@@ -64,6 +64,6 @@ c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Mic
 c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Google.xml
 c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.csprojResolveAssemblyReference.cache
 c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.dll
 c:\users\dan\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.pdb
+C:\Users\Dan\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.csprojResolveAssemblyReference.cache
